@@ -56,4 +56,5 @@ def loadBooksTags(catalog):
     """
     TODO
     """
+    tagsfile = cf.data_dir + catalog
     pass
