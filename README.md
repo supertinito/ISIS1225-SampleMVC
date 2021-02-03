@@ -29,4 +29,4 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Santiago Rodríguez Sierra s.rodriguez64@uniandes.edu.co s.rodriguez64
 
-Juan Felipe García jf.garciam1@uniandes.edu.co 
+Juan Felipe García jf.garciam1@uniandes.edu.co jf.garciam1
